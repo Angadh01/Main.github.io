@@ -1,4 +1,4 @@
-Markup :  # Heading 1 # Personal Profile
+# Personal Profile #
 
 Angadh Bazaad
 
