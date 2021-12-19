@@ -1,8 +1,8 @@
 # Personal Profile #
 
-Angadh Bazaad
+![Angadh main](https://user-images.githubusercontent.com/95681362/146670136-2b05d02f-bdf9-49fc-895d-b349f157b997.jpg)
 
-![Screenshot_20211219_202410](https://user-images.githubusercontent.com/95681362/146670025-7c77d0b6-8ec2-4986-8db5-248ddac21f15.jpg)
+Angadh Bazaad
 
 s3912779
 
