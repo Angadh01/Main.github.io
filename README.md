@@ -2,6 +2,8 @@
 
 Angadh Bazaad
 
+![Screenshot_20211219_202410](https://user-images.githubusercontent.com/95681362/146670025-7c77d0b6-8ec2-4986-8db5-248ddac21f15.jpg)
+
 s3912779
 
 s3912779@student.rmit.edu.au
