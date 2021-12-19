@@ -81,39 +81,48 @@ Facial detection and recognition are a growing industry which have many uses spe
 This highlights the value facial recognition will have in the future in various fields, especially in use for security. The accuracy and wide adaptability of these technologies have endless possibilities.
 
 ## Description ##
-The use of facial recognition and smart security for residential protection is one of the most exciting innovations. It’s a user-friendly system using proven technology operating within the privacy of people’s homes to protect their family and belongings.
-The facial recognition home security system will be equipped with facial recognition to arm or disarm the main access automatically when members of the home are gone or present. If the system picks up an individual recognized as a household member, it knows there is no need to raise the alarm also and will stay neutral.
-The facial recognition system will be able to identify unwanted guest or unauthorized users trying to gain access and can be set to raise alarms, send alerts to Houshold members, or even notify first responders as per the mechanism is set. Its wide compatibility and uses make it very appealing and adaptable to different user cases. 
-The key features of a facial recognition engine are:
-Facial detection, the first step technology takes to identify a face. This step requires the technology to scan the whole image to see if any area contains parts of human. Quick and Accurate face detection is an essential first step to ensure the successful performance of the entire facial recognition process. This software will have a lot of facial matching algorithms, using hundreds or thousands of feature detection points on a face to establish identify of the individual.
- Following this is Face feature extraction, the engine extracts a n-dimensional vector set (called template) from the face image. For a higher precision, a high n value is required, Once the template is extracted from the individual's face it is used for then matching.
-The template that has been extracted is then matched to those pre-set in a database. An individual's template is matched to the entire database to do a 1:N search in order to find the best match to confirm identity. FaceMe only stores encrypted template data, no actual images are stored through their platform ensuring privacy is fully protected.
-The Facial recognition system will be able to prevent unauthorized or blocked members from entering the premises by matching live images against a data base of preset identities.
-Smart locks can also be integrated into the system, they work by granting access using wireless protocol and cryptographic key for authorization. Facial recognition can be embedded into smart locks if a user wants to limit certain areas of the house or certain rooms, they can give keys to authorized personnel only. The implementations of facial recognition are very vast.
-Tools and technologies
-The tools and technologies required for this project are remarkably simple and easily acquirable. 
-Software
-Face Me is a software development kit. It can be adapted and customized into multiple devices on a network, as a software development kit Face Me can be integrated into any device or operating system.
-FaceMe offers one of the markets most comprehensive chipsets and OS support. The technology meets the highest accuracy and security standards for deployment across different use cases. 
-Hardware for Facial Recognition
-On hardware considerations, there is no one-size fits all approach to facial recognition. Solutions should always be customized to the end-user and their industry, as well as the specific use case’s needs and scope.
-There are endless hardware options capable of running facial recognition. Some of the most common include IP enabled cameras, Biometric door locks, Electronic lockpad for various access doors, PCs, workstations and smart IoT or AIoT devices. For each type of device, there are several options for chipset or camera type which can be used. This is on top of a number of other considerations, each having an impact on performance and the total cost of ownership. For details, please read Facial Recognition at the Edge – The Ultimate Guide 2021.
-Skills required
-There are not many specialized skills required as most of the products are off the shelf programs that require basic understanding and ability to follow the instructions. However an electrician will be required to install and connect the devices to electrical circuit.
-Basic IT and PC skills
-	Basic understanding of IT systems to use SDK and configure with other devices. This can be done with time and study by anyone.
-	Basic skills for program useability and ability to install software as per the vendors instructions.
-	Advance PC user skills.
-	Detailed product knowledge and understanding of off the shelf software and how to implement it in different user cases.
-Networking skills 
-	Hardware installation and configuration understanding
-	Desktop Management
-	Router, Internet setup and configuration.
 
-Outcome 
+The use of facial recognition and smart security for residential protection is one of the most exciting innovations. It’s a user-friendly system using proven technology operating within the privacy of people’s homes to protect their family and belongings. The facial recognition home security system will be equipped with facial recognition to arm or disarm the main access automatically when members of the home are gone or present. If the system picks up an individual recognized as a household member, it knows there is no need to raise the alarm also and will stay neutral. This system will be able to identify unwanted guest or unauthorized users trying to gain access and can be set to raise alarms, send alerts to Houshold members, or even notify first responders as per the mechanism is set. Its wide compatibility and uses make it very appealing and adaptable to different user cases. 
+
+The key features of a facial recognition engine are:
+
+**Facial detection** - The first step technology takes to identify a face. This step requires the technology to scan the whole image to see if any area contains parts of human. Quick and Accurate face detection is an essential first step to ensure the successful performance of the entire facial recognition process. This software will have a lot of facial matching algorithms, using hundreds or thousands of feature detection points on a face to establish identify of the individual. 
+
+**Face feature extraction** - The engine extracts a n-dimensional vector set (called template) from the face image. For a higher precision, a high n value is required, Once the template is extracted from the individual's face it is used for then matching. The template that has been extracted is then matched to those pre-set in a database. An individual's template is matched to the entire database to do a 1:N search in order to find the best match to confirm identity. FaceMe only stores encrypted template data, no actual images are stored through their platform ensuring privacy is fully protected.
+
+**Facial recognition system** - Will be able to prevent unauthorized or blocked members from entering the premises by matching live images against a data base of preset identities.
+
+**Smart locks** - Can also be integrated into the system, they work by granting access using wireless protocol and cryptographic key for authorization. Facial recognition can be embedded into smart locks if a user wants to limit certain areas of the house or certain rooms, they can give keys to authorized personnel only. The implementations of facial recognition are very vast.
+
+## Tools and technologies ##
+
+The tools and technologies required for this project are remarkably simple and easily acquirable. 
+
+**Software** 
+Face Me is a software development kit. It can be adapted and customized into multiple devices on a network, as a software development kit Face Me can be integrated into any device or operating system. FaceMe offers one of the markets most comprehensive chipsets and OS support. The technology meets the highest accuracy and security standards for deployment across different use cases. 
+
+**Hardware for Facial Recognition**
+On hardware considerations, there is no one-size fits all approach to facial recognition. Solutions should always be customized to the end-user and their industry, as well as the specific use case’s needs and scope. There are endless hardware options capable of running facial recognition. Some of the most common include IP enabled cameras, Biometric door locks, Electronic lockpad for various access doors, PCs, workstations and smart IoT or AIoT devices. For each type of device, there are several options for chipset or camera type which can be used. This is on top of a number of other considerations, each having an impact on performance and the total cost of ownership. For details, please read Facial Recognition at the Edge – The Ultimate Guide 2021.
+
+## Skills required ##
+
+There are not many specialized skills required as most of the products are off the shelf programs that require basic understanding and ability to follow the instructions. However an electrician will be required to install and connect the devices to electrical circuit.
+**Basic IT and PC skills**
+ - Basic understanding of IT systems to use SDK and configure with other devices. This can be done with time and study by anyone.
+ - Basic skills for program useability and ability to install software as per the vendors instructions.
+ - Advance PC user skills.
+ - Detailed product knowledge and understanding of off the shelf software and how to implement it in different user cases.
+
+**Networking skills** 
+ - Hardware installation and configuration understanding
+ - Desktop Management
+ - Router, Internet setup and configuration.
+
+## Outcome ## 
 
 This Facial Recognition security system will achieve a higher and more secure level of protection for clients that want to protect their home from unauthorized individuals entering. This system will store images of people who can come and who cannot be completely customizable. For example, if you go on holiday there is no need to leave your keys or worry about someone else losing them, set the user that will be entering your home in the system database and voila you have given them keyless entry. No more sending money on replacement keys or wasting time resetting passwords, this system will allow for more accurate and secure access control. This will change the way the security system is set up in homes for the best.
-References:
+
+## References: ##
 
 EIRE systems. (2021) Project Manager Skills (online)
 Available at:  https://www.eiresystems.com/the-top-10-skills-it-project-managers-need/
@@ -130,8 +139,6 @@ Accessed: 18/12/2021
 Corinne Bernstein. (2020) What is face detection and how does it work? (online)
 Available at: https://www.techtarget.com/searchenterpriseai/definition/face-detection
 Accessed: 18/12/2021
-
-
 
 Marcelo Rovai. (2018) An end to end project (online)
 Available at: https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348
