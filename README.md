@@ -63,6 +63,9 @@ These results show how I approach tasks well in my opinion, being able to gather
 
 # Project Idea : Facial Recognition for home security and access #
 
+![image](https://user-images.githubusercontent.com/95681362/146669651-63af5084-94db-4336-a10d-9f95183bfef4.png)
+
+
 ## Overview ##
 Security is an ever-growing problem as criminals are becoming more resourceful in their methods where traditional systems with passcodes or passwords just do not cut it anymore. Typical problems arise in household security where people tend to lose the keys, security cards or forget the passwords to gain entry. On losing the keys the owner or users are forced to change all the locks which not only cost money but also open a window for someone to gain entry. It is time consuming and impacts other family members as well. Other new systems which require passcodes to gain entry have similar issues of people forgetting passwords thus restricting their access to home. Resetting passwords can be a time-consuming activity and costly exercise if the system is complex. 
 
