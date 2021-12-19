@@ -18,6 +18,8 @@ To start my IT journey, I had to get some sort of foundation in IT as well as kn
 
 # Ideal Job # 
  
+ ![image](https://user-images.githubusercontent.com/95681362/146669248-aade8b7e-19a1-4116-ab42-14612fb92153.png)
+
 Available at: https://www.seek.com.au/job/55348845?type=standard#searchRequestToken=4d3b70cc-0d02-4bf9-bac3-c8dda10d92f0 
 
 My ideal job or more I should say goal job would be to become an IT project manager. An IT Project Manager's role is to organize, plan, integrate cross-functional IT projects and make sure projects are delivered on time and on budget. The IT project manager identifies any risks associated with completing the project. It is essential to have teamwork skills in this role as all projects require different fields of IT professionals to collaborate to complete them, project managers will coordinate the work of other IT professionals and administrative staff to produce new software's or systems. This job is particularly appealing to me because of my social nature and love for working and leading teams to achieve a common goal. I have been involved in team sports and games all my life growing up and always enjoyed it. Becoming an IT project manager really allows me to highlight my leadership and team coordination skills. This position will have me working in a team setting where I can thrive and make an impact the most.
@@ -32,6 +34,7 @@ High school offers many opportunities for group work and collaboration with peer
 
 # Personality and Traits #
 Test 1, Myers-Briggs Test Results: 
+
 ![image](https://user-images.githubusercontent.com/95681362/146669120-5f560c05-a3d3-46fd-812c-d56e547e3e39.png)
 
 Available at: https://www.16personalities.com
@@ -41,6 +44,7 @@ In this personality test my results were very accurate I would say. The result o
 My energy result was 84% intuitive, this means I am constantly looking for different possibilities, questioning things a lot, and always taking an open-minded approach to tasks or topics. All these traits are tools to help effectively in problem solving at work or in a team setting, preventing future problems, finding more viable solutions etc. My tactics result was 86% judging which suggests I am highly organized, like to plan and have predictability. Being able to plan and predict in team projects is essential to avoid any future issues you may run into. Planning is key for time management and for keeping progress off each stage of a project. Click here for further information on my results. 
 
 Test 2, Creativity Quiz Results: 
+
 ![image](https://user-images.githubusercontent.com/95681362/146669133-e931624d-7f41-4dbb-88af-490cacf8de1c.png)
 
 Available at: https://www.mindtools.com/pages/article/creativity-quiz.htm
@@ -50,6 +54,7 @@ In this quiz I got a score of 73 placing me in the higher end of the scale in cr
 Creativity in teamwork can help in many aspects like problem solving, finding better ways to do things, creating and thinking of new projects etc. This will make me a valuable member of a team when brainstorming ideas or simply finding solutions to issues that arise in projects.
 
 Test 3, Learning style quiz results:
+
  ![image](https://user-images.githubusercontent.com/95681362/146669158-67e27762-5319-4576-8fc1-ccf519e4c850.png)
 
 Available at: https://www.learningstylequiz.com
