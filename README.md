@@ -101,6 +101,8 @@ The key features of a facial recognition engine are:
 
 ## Tools and technologies ##
 
+![image](https://user-images.githubusercontent.com/95681362/146669739-869b28aa-08f5-4ea6-be74-f9f7945d9374.png)
+
 The tools and technologies required for this project are remarkably simple and easily acquirable. 
 
 **Software** 
@@ -110,6 +112,8 @@ Face Me is a software development kit. It can be adapted and customized into mul
 On hardware considerations, there is no one-size fits all approach to facial recognition. Solutions should always be customized to the end-user and their industry, as well as the specific use case’s needs and scope. There are endless hardware options capable of running facial recognition. Some of the most common include IP enabled cameras, Biometric door locks, Electronic lockpad for various access doors, PCs, workstations and smart IoT or AIoT devices. For each type of device, there are several options for chipset or camera type which can be used. This is on top of a number of other considerations, each having an impact on performance and the total cost of ownership. For details, please read Facial Recognition at the Edge – The Ultimate Guide 2021.
 
 ## Skills required ##
+
+![image](https://user-images.githubusercontent.com/95681362/146669756-92c1191f-8da8-456c-8c8c-a72f26b74569.png)
 
 There are not many specialized skills required as most of the products are off the shelf programs that require basic understanding and ability to follow the instructions. However an electrician will be required to install and connect the devices to electrical circuit.
 **Basic IT and PC skills**
@@ -124,6 +128,8 @@ There are not many specialized skills required as most of the products are off t
  - Router, Internet setup and configuration.
 
 ## Outcome ## 
+
+![image](https://user-images.githubusercontent.com/95681362/146669790-cbfc2c8f-f3bc-4771-8821-f184bfed838b.png)
 
 This Facial Recognition security system will achieve a higher and more secure level of protection for clients that want to protect their home from unauthorized individuals entering. This system will store images of people who can come and who cannot be completely customizable. For example, if you go on holiday there is no need to leave your keys or worry about someone else losing them, set the user that will be entering your home in the system database and voila you have given them keyless entry. No more sending money on replacement keys or wasting time resetting passwords, this system will allow for more accurate and secure access control. This will change the way the security system is set up in homes for the best.
 
