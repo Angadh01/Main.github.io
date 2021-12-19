@@ -73,7 +73,9 @@ Facial recognition software will allow users to have a stronger and stricter lay
 Facial detection and recognition are a growing industry which have many uses specifically in different applications. It has been taking over the traditional passcode/passwords that have been used to gain access to homes and confidential data. It is so relevant that by 2024, the global facial recognition market could generate $7 billion in revenue. Facial recognition software's has been evolving and only getting better, the layer of security and accuracy provided is unmatched. By 2025 72% of hotel operators are expected to deploy facial recognition to identify and interact with guests. This technology will only become more relevant as more data is being stored online and its adoption by various industries. Some of the other key statistics have been documented by various articles below.
 
 ·	By 2023, 97% of airports will roll out facial recognition technology. (Reservations.com)
+
 ·	Between 2014 and 2018, facial recognition software became 20 times better at searching databases to find a matching photograph. (NIST)
+
 ·	According to Apple, the probability that a random person could look at someone else’s iPhone X and unlock it using Face ID is approximately 1 in 1,000,000. (Apple)
 
 This highlights the value facial recognition will have in the future in various fields, especially in use for security. The accuracy and wide adaptability of these technologies have endless possibilities.
