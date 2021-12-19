@@ -122,7 +122,7 @@ There are not many specialized skills required as most of the products are off t
 
 This Facial Recognition security system will achieve a higher and more secure level of protection for clients that want to protect their home from unauthorized individuals entering. This system will store images of people who can come and who cannot be completely customizable. For example, if you go on holiday there is no need to leave your keys or worry about someone else losing them, set the user that will be entering your home in the system database and voila you have given them keyless entry. No more sending money on replacement keys or wasting time resetting passwords, this system will allow for more accurate and secure access control. This will change the way the security system is set up in homes for the best.
 
-## References: ##
+## *References:* ##
 
 EIRE systems. (2021) Project Manager Skills (online)
 Available at:  https://www.eiresystems.com/the-top-10-skills-it-project-managers-need/
